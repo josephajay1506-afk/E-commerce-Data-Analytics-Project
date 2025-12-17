@@ -1,6 +1,5 @@
 # E-commerce-Data-Analytics-Project
 End-to-end Data Analyst project analyzing e-commerce sales trends, customer segmentation (RFM), and sales forecasting using Python.
-# E-Commerce Sales & Customer Analytics Project
 
 ## 📌 Project Overview
 This project analyzes e-commerce transaction data to uncover sales trends, customer behavior, and future sales patterns. The analysis supports business decisions related to inventory planning, marketing strategy, and customer retention.
